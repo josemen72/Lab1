@@ -1,11 +1,7 @@
-/* Lab 1
- *
- * Jose Mendez
- * 08/25/20
- */
-#include <iostream>
 
+#include <iostream>
 using namespace std;
+
 // uncomment the above "using" directive and you can write:
 //   cout instead of std::cout
 //   cin  instead of std::cin
